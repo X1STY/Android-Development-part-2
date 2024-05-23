@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Толканюк 8И12 lab17</string>
+    <string name="title_music">Music</string>
+    <string name="title_book">Book</string>
+    <string name="title_news">News</string>
+
+    <string name="genre_rock">Rock</string>
+    <string name="genre_jazz">Jazz</string>
+    <string name="genre_classical">Classical</string>
+    <string name="genre_chanson">Chanson</string>
+    <string name="genre_blues">Blues</string>
+    <string name="genre_pop">Pop</string>
+    <string name="book_new">Новые</string>
+    <string name="book_read">Прочитанные</string>
+</resources>
