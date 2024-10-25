@@ -13,3 +13,8 @@ This is a repository which stores all tasks from Android development in TPU
 ### 20 - External manager (broadcast, notification)
 ### 21 - Timer (services)
 ### 22 - Find location game (location)
+### 23 - Github finder (API + HTTP req + JSON)
+### 24 - Animated something
+### 25 - Reading list (SQLite)
+### 26 - Camera colorpicker (CameraX)
+### 27 - Gravity ball (Sensors)
